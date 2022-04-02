@@ -24,6 +24,7 @@ class ViewController: UIViewController {
             
             segundaTela.usuarioValue = usuarioTextField.text!
             segundaTela.senhaValue = senhaTextField.text!
+            //print(` `)
         }
         
     }
